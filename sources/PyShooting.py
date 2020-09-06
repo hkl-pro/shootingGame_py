@@ -79,7 +79,7 @@ def runGame():
                     fighterY = 0
             
 
-
+        ###TEST
 
         #왼쪽, 오른쪽
         x += fighterX
